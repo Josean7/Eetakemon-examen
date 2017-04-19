@@ -10,7 +10,7 @@ import javax.ws.rs.core.Response;
 
 
 
-// per modificar
+// per modificar.
 
 
 @Path("/json")
